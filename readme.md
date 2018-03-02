@@ -6,13 +6,11 @@ For a quick demo:
 -----------------
 1. Install python
 2. Run: pip install -r requirements.txt
-3. Change token in rest_client.py file
-4. Within the fxcm_rest.json file:
+3. Within the fxcm_rest.json file:
    * Set log path via the logpath field
-   * Set the authentication client_id and client_secret details.
    * Set debugLevel if desired
    * Set subscription lists if desired
-5. In the fxcm_rest_client_sample.py file:
+4. In the fxcm_rest_client_sample.py file:
    * Set your token and environment (demo/real)
 
 For a Notebook demo:
