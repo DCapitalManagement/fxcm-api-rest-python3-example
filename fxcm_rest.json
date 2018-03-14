@@ -1,7 +1,6 @@
 {
     "environments": {
         "demo": {
-            "auth": "https://www-beta2.fxcorporate.com/oauth/token",
             "trading": "https://api-demo.fxcm.com",
             "port": 443
         }
